@@ -29,7 +29,7 @@ int main()
 {
     printf("\tCounty Library Systems\n");
     printf("login");
-    printf("Welcome Mr. wafula\n");
+    printf("Welcome Mr. charles\n");
     printf("What would you like to\n");
     printf("1, Add User\n");
     printf("2, Add Book\n");
